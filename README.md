@@ -23,15 +23,19 @@ A simple and elegant calculator app built with Flutter.
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone The Repository:**
    ```sh
-   git clone https://github.com/yourusername/flutter-calculator-app.git
+   git clone https://github.com/tanmay-bhatgare/flutter-calculator.git
    ```
-2. **Navigate to Directory**
-    ```sh
-    cd calculator
-    ```
-2. **Get Packages**
-    ```sh
-    flutter pub get
-    ```
+2. **Navigate To Directory**
+   ```sh
+   cd calculator
+   ```
+3. **Get Packages**
+   ```sh
+   flutter pub get
+   ```
+4. **Run Project**
+   ```sh
+   flutter pub get
+   ```
