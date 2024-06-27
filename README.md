@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
    ```
 2. **Navigate To Directory**
    ```sh
-   cd calculator
+   cd flutter-calculator
    ```
 3. **Get Packages**
    ```sh
